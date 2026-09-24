@@ -1,0 +1,38 @@
+[
+  {
+    "model_name": "Random Forest Classifier",
+    "algorithm": "Random",
+    "accuracy": 0.7330714285714286,
+    "precision": 0.7551276029434789,
+    "recall": 0.6893939393939394,
+    "f1_score": 0.720765149816932,
+    "roc_auc": 0.7978893829842885
+  },
+  {
+    "model_name": "Gradient Boosting Classifier",
+    "algorithm": "Gradient",
+    "accuracy": 0.7345714285714285,
+    "precision": 0.7541847489150652,
+    "recall": 0.6955403087478559,
+    "f1_score": 0.7236763831052945,
+    "roc_auc": 0.800123097999379
+  },
+  {
+    "model_name": "Decision Tree Classifier",
+    "algorithm": "Decision",
+    "accuracy": 0.7177857142857142,
+    "precision": 0.7296033780726889,
+    "recall": 0.691538021726701,
+    "f1_score": 0.7100609084904969,
+    "roc_auc": 0.7766843352438646
+  },
+  {
+    "model_name": "Logistic Regression",
+    "algorithm": "Logistic",
+    "accuracy": 0.7136428571428571,
+    "precision": 0.7313710302091402,
+    "recall": 0.6748141795311606,
+    "f1_score": 0.7019552449631997,
+    "roc_auc": 0.7780855499871183
+  }
+]
